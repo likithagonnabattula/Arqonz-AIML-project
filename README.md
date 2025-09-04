@@ -27,4 +27,4 @@ Start Flask:
     python app.py
     
 Hosted  with Cloudflare Tunnel:
-    cloudflared tunnel --url http://127.0.0.1:5000
+   Link: https://voip-nickel-whale-rand.trycloudflare.com/
